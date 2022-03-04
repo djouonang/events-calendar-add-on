@@ -1,0 +1,17 @@
+.get-date {
+    padding-left: 0px !important;
+    font-size: 15px;
+    color: #00abff;
+      position: relative;
+    top: -5px !important;
+
+}
+
+.islamic-date {
+    padding-left: 90px !important;
+    font-size: 17px;
+    color: #575757;
+      position: relative;
+    top: 25px !important;
+
+}
